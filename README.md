@@ -20,10 +20,11 @@ This project lets users control the mouse, media playback, and volume using hand
 - Python 3.10 recommended
 - Webcam
 
-**Installation:**
-Install dependencies: pip install opencv-python mediapipe pynput keyboard numpy
-Run the main script: python virtualmouse.py 
-To stop the program, press `Ctrl+C` in the terminal.
+**Run the main script:**
+python virtualmouse.py 
+
+**To stop the program:** 
+press `Ctrl+C` in the terminal.
 
 **Applications:**
 - Gaming and Virtual Reality (VR)
